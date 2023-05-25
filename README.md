@@ -1,7 +1,5 @@
 # Land_registration_system
 
-# Blockchain-Based-Property-Registration
-
 <img src="https://img.shields.io/badge/Ethereum-20232A?style=for-the-
 badge&logo=ethereum&logoColor=white">
 
@@ -72,17 +70,16 @@ flutter run -d web-server --web-port 5555
 <img src="screenshots/flowchart.png" height="450">
 ## Screenshots
 Home Page | User Selection
-:---------------------------------: | :------------------------------:
 <img src="screenshots/1.png" height="225"> |<img src="screenshots/2.png" height="225">
+
 Login Page | Contract Owner Dashboard
-:---------------------------------: | :------------------------------:
 <img src="screenshots/3.png" height="225"> |<img src="screenshots/4.png" height="225">
+
 Land Inspector Dashboard | User Verification
-:---------------------------------: | :------------------------------:
 <img src="screenshots/5.png" height="225"> |<img src="screenshots/6.png" height="225">
+
 User Dashboard | Adding land on Map
-:---------------------------------: | :------------------------------:
 <img src="screenshots/7.png" height="225"> |<img src="screenshots/8.png" height="225">
+
 Buy Request. | Witness info,photo capture,transfer ownership
-:---------------------------------: | :------------------------------:
 <img src="screenshots/9.png" height="225"> |<img src="screenshots/10.png" height="225">
